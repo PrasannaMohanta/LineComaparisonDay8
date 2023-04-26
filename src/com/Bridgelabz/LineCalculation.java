@@ -7,6 +7,10 @@ package com.Bridgelabz;
  */
 
 public class LineCalculation {
+	/**
+	 *
+	 * @param args
+	 */
 
 	public static void main(String[] args) {
 
